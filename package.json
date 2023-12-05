@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.2"
+  },
+  "name": "login-using-mongodb",
+  "version": "1.0.0",
+  "main": "index1.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index1.js",
+    "dev": "nodemon index1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

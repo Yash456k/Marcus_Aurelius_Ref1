@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(223, 68, 223);
+}
+
+h3{
+    color: red;
+    background-color: yellow;
+   display: inline-block;
+}
